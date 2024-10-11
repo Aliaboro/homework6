@@ -37,9 +37,11 @@ function App() {
       </div>
       )
     }))}
+    {places.length > 0 && (
     <div className="container">
     <button className="btn2" onClick={() => setPlaces([])}>Удалить все</button>
     </div>
+    )}
     </div>
     )
   }
