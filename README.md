@@ -35,10 +35,12 @@
   <img src="https://github.com/user-attachments/assets/cdd6b5c9-7fbf-437c-a98e-0fbce2be6bff" alt="The Cildren's railway of Yerevan" width="90%">
 </p>
 
-- После удаления всех элементов. На странице останется заголовок с цифрой ноль  и кнопка "Удалить все"
+- После удаления всех элементов. На странице останется только заголовок с цифрой ноль.
  <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/4cd337f5-7fa6-4cb1-9f4b-953fbc8bef7f" alt="Last page" width="90%">
+  <img src="https://github.com/user-attachments/assets/448d3e30-b156-4a0d-84f5-17a6df8f2bc6" alt="Last page" width="90%">
 </p>
+
+
 
 ## How to Install and Run the Project
 
